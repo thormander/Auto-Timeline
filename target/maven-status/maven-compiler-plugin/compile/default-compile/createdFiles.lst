@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/model/Hero.class
+com/example/demo/controller/MyController.class
+com/example/demo/services/SuperRepository.class
+com/example/demo/model/Will.class
+com/example/demo/services/Fight.class
